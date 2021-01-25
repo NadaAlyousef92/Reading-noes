@@ -24,7 +24,7 @@
 
 - For more *inf* about types of mindset follow the link ;
 
-[](https://www.verywellmind.com/what-is-a-mindset-2795025)
+[link](https://www.verywellmind.com/what-is-a-mindset-2795025)
 
 
 
