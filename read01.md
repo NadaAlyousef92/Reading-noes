@@ -1,11 +1,11 @@
-# Reading-noes
+# Reading-notes
 
-# nada #What is **Growth mindset ?**#
+# nada #What is **Growth mindset ?
 
 ## Its describes people who have acreative way of thinking and believe that their success depends on time and effort##
 
 
-- *people can improve themselves to have agrowth mindsets by many Ideas such as*- :
+- *people can improve themselves to have agrowth mindsets by many Ideas such as- :
 
 1-:point_right: Replace the word **falling** with word **learning**.
 
