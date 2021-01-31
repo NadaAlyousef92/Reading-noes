@@ -1,0 +1,25 @@
+#What is afunction?#
+
+*function let you group a series of statements togather to perform a specific task. 
+if different parts of a script repeat the same task you can reuse the function (rather than repeating the same set of statements)*
+A variant of the Function.prototype.call method, taking all arguments of the method to be invoked as a single array argument, is Function.prototype.apply.
+
+**JavaScript allows us to write our own functions as well. This section explains how to write your own functions in JavaScript.**
+
+##Function Definition##
+
+Before we use a function, we need to define it. 
+The most common way to define a function in JavaScript is by using the function keyword, followed by a unique function name, a list of parameters (that might be empty), and a statement block surrounded by curly braces.
+
+###Calling a Function###
+
+To invoke a function somewhere later in the script, you would simply need to write the name of that function as shown in the following code.
+
+####Function Parameters#
+
+ we have seen functions without parameters. But there is a facility to pass different parameters while calling a function. These passed parameters can be captured inside the function and any manipulation can be done over those parameters. A function can take multiple parameters separated by comma.
+
+#####The return Statement#####
+A JavaScript function can have an optional return statement. This is required if you want to return a value from a function. This statement should be the last statement in a function.
+
+For example, you can pass two numbers in a function and then you can expect the function to return their multiplication in your calling program
