@@ -1,0 +1,47 @@
+#using expressions with comparison operators#
+
+*The operand dosnot have to be a single value or variable name .
+An operend can be an expression (because each expression evaiuates into a single value)
+
+ex:== is equal to(numbers,strings or booleans)to see they are the same
+
+   != is not equal to(number,string or booleans)to see they arenot the same
+
+    === is strict equal to check that thr both data type and value are the same
+
+     !== is strict not equal to compares two value are not the same
+      
+      > to check if the number on the left is greater than the number of the right
+
+      < to check that the number on the right is greated than the number on the left
+
+       >= greater than or equal to
+
+       <= less than or equal to
+
+##logical operations##
+
+&& : logical and to evaluate the true and then the expression returns the true
+
+|| : logical or to test at least one condition
+
+ ! : logical not to reverses the state of an expressions
+
+
+###using swich statment###
+
+*The porpuse of swich statment is to present the user with defferent message depending on which level they are at.
+the message is stored in a variable called msg.*
+
+####loops####
+
+loops check a condition
+
+**for:** if you need run code a specific number of time**
+**while** if u dont know how many time the code should run**
+**Do while** same of while loop but it will always run the statment inside the curely braces**
+for example (var i =0; i<10; i++){
+}
+
+
+*The variable i : when the condition is no longer true , the loop ends . the script moves to the next line of code.*
