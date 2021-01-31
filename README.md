@@ -9,9 +9,9 @@
 |Read03     | [Link 4 ](./read03.md)|
 |Read04a    | [Link 5 ](./read04a.md)|
 |Read04b    | [Link 6 ](./read04b.md)|
-|Read04c    | [Link 7 ](./read04c.md)|
-|Read04c    | [Link 8 ](./read05.md)|
-|Read04c    | [Link 9 ](./read06a.md)|
-|Read04c    | [Link 10 ](./read06b.md)|
+|Read05c    | [Link 7 ](./read05c.md)|
+|Read06a    | [Link 8 ](./read06a.md)|
+|Read06b    | [Link 9 ](./read06b.md)|
+
 
 
